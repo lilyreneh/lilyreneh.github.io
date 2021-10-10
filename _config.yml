@@ -83,8 +83,8 @@ author:
   name             : "Lily Hetherington"
   avatar           : "profile.png"
   bio              : "Electrical Designer, Engineer in Training"
-  location         : #"Location"
-  employer         :
+  location         : "Vancouver, British Columbia"
+  employer         : "https://www.integralgroup.com/"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
   email            : "lily.hetherington@colorado.edu"
@@ -96,13 +96,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "lilyreneh"
+  github           : "https://github.com/lilyreneh"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "https://ca.linkedin.com/in/lily-hetherington-6476a1a4?trk=people-guest_people_search-card"
   orcid            : "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
