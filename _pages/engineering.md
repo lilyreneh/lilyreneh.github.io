@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Engineering"
-permalink: /publications/
+permalink: /engineering/
 author_profile: true
 ---
 
