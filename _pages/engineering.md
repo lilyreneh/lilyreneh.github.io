@@ -5,6 +5,8 @@ permalink: /engineering/
 author_profile: true
 ---
 
+DDPoster36x24_190424.pdf
+
 {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
