@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * B.S. in Architectural Engineering, University of Colorado - Boulder, 2019
-* B.A. in Cinema Stufies, University of Colorado - Boulder, 2019
+* B.A. in Cinema Studies, University of Colorado - Boulder, 2019
 * Study Abroad in Engineering, Polytechnic University of Valencia, 2016
 
 Work experience
