@@ -11,36 +11,48 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Architectural Engineering, University of Colorado - Boulder, 2019
+* B.A. in Cinema Stufies, University of Colorado - Boulder, 2019
+* Study Abroad in Engineering, Polytechnic University of Valencia, 2016
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Summer 2018: Techincal Lighting Services Intern
+  * BEGA North America
+  * Duties included: Performed luminaire/driver testing, luminaire failure diagnosis, calculations in AGi32, luminaire models for Revit
+  * Supervisor: Mark Prenger
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Summer 2019: Electrical Design Intern
+  * ME Engineers
+  * Duties included: Performed load calculations, equipment layout and placement, lighting calculations, site visits, communication with reps, drawing revisions.
+  * Supervisor: Corey Berhost
+  
+* Present: Electrical Designer
+  * Integal Group
+  * Duties included: Design Audio Visual, Telecommunication, Security, and Lighting systems for buildings.Performed load calculations, equipment layout and placement, lighting calculations, site visits, communication with reps, drawing revisions.
+  * Supervisor: Andy Crosson
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Building Modeling: Revit, AutoCAD, Rhino, Vectorworks
+* Lighting Modeling: AGi32, Photopia, Visual
+* Loud Speaker Modeling: EASEJr
+* In-Building Wireless Design: iBWave
+* Camera Proficiencies: Sony FS 700, DSLRs, Blackmagic Pocket Cinema, Bolex 16mm, Super 8
+* Film Software Proficiencies: Premiere, Avid, After Effects, Pro Tools, DaVinci, Audition
 
 Publications
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* Spring 2016: Teaching Assistant
+  * IES Serpis, Valencia Spain 
+  * Course: English (Grades 9-12)
+* Summer 2016: Teaching Assistant
+  * CU Boulder Upward Bound
+  * Course: Algebra based Physics, Precalculus/Intro to Calculus
+* Fall 2018: Teaching Assistant
+  * CU Boulder, Environmental Design
+  * Course: Lighting Design I 
+ 
   
 Talks
 ======
@@ -48,12 +60,12 @@ Talks
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
-Teaching
-======
+%Teaching
+%===
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+%Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+%* Currently signed in to 43 different slack teams
