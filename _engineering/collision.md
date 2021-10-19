@@ -2,7 +2,7 @@
 title: "The Collision"
 collection: teaching
 type: "Undergraduate course"
-permalink: /engineering/example
+permalink: /engineering/collision
 #venue: "University 1, Department"
 #location: "City, Country"
 ---
