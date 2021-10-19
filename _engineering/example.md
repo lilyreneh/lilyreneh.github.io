@@ -1,5 +1,5 @@
 ---
-title: "Teaching experience 1"
+title: "The Collision"
 collection: teaching
 type: "Undergraduate course"
 permalink: /engineering/example
@@ -7,7 +7,7 @@ permalink: /engineering/example
 #location: "City, Country"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+This is the significant senior project in which I designed the electrical systems for a building which was design as part 1 of the project.
 
 Heading 1
 ======
