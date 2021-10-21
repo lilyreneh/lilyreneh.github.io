@@ -6,6 +6,6 @@ author_profile: true
 ---
 [Vegetarians](https://vimeo.com/268691928 "Vimeo")
 
-Thesis Film Project, 2019 <br/><img src='/files/Vegetaeians Snapshot.PNG'>
+Thesis Film Project, 2019 <br/><img src='/files/Vegetarians Snapshot.PNG'>
 
 
