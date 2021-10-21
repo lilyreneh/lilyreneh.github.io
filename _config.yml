@@ -231,7 +231,7 @@ defaults:
       share: true
       comments: true
   # _films    
-   - scope:
+  - scope:
       path: ""
       type: films
     values:
