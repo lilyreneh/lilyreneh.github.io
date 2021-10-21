@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Films"
-permalink: /films
+permalink: /films/
 author_profile: true
 ---
 
