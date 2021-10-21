@@ -12,6 +12,6 @@ author_profile: true
 
 {% include base_path %}
 
-{% for post in site.engineering reversed %}
+{% for post in site.films reversed %}
   {% include archive-single.html %}
 {% endfor %}
