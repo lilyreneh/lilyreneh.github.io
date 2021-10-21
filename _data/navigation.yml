@@ -3,7 +3,7 @@ main:
   - title: "Engineering"
     url: /engineering/
 
-- title: "Films"
+  - title: "Films"
     url: /films/
 
  # - title: "Talks"
