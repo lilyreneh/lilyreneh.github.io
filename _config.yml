@@ -187,6 +187,9 @@ collections:
   talks:
     output: true
     permalink: /:collection/:path/
+  films:
+    output: true
+    permalink: /:collection/:path/
 
 
 # Defaults
@@ -222,6 +225,15 @@ defaults:
   - scope:
       path: ""
       type: engineering
+    values:
+      layout: engineering
+      author_profile: true
+      share: true
+      comments: true
+  # _films    
+   - scope:
+      path: ""
+      type: films
     values:
       layout: engineering
       author_profile: true
