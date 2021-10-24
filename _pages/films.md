@@ -20,4 +20,4 @@ Cinema Fundamentals II Final Project, 2017 <br/><img src='/files/pussymania.PNG'
 [Preserving My Mind](https://youtu.be/hWDqcIGyHkw "Youtube")
 ======
 
-Incorporation of Digital and Film mediums, 2017
+Incorporation of Digital and Film mediums, 2017 <br/><img src='/files/mind.PNG'>
