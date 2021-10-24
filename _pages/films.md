@@ -13,7 +13,8 @@ Thesis Film Project, 2019 <br/><img src='/files/Vegetarians Snapshot.PNG'>
 [Pussymania in Italian](https://youtu.be/v8Gj1mGCDe0 "Youtube")
 ======
 
-Cinema Fundamentals II Final Project, 2017
+Cinema Fundamentals II Final Project, 2017 <br/><img src='/files/pussymania.PNG'>
+
 
 
 [Preserving My Mind](https://youtu.be/hWDqcIGyHkw "Youtube")
