@@ -11,7 +11,7 @@ This is the final project for the optical design class. We designed, produced, a
 
 Overview
 ======
-This design is for a horticulture lamp reflector that which directs the light in a uniform distribution on a 4’ x 4’ square 2’6” from the area to be illuminated. The important aspects of the output are the target efficiency and the ratio of maximum to minimum illuminance on the plane. A balance of a low max/min ratio and high target efficiency are sought after in order to achieve high uniformity with most of the light falling inside the 4’ x 4’ square. 
+This design is for a horticulture lamp reflector which directs the light in a uniform distribution on a 4’ x 4’ square 2’6” from the area to be illuminated. The important aspects of the output are the target efficiency and the ratio of maximum to minimum illuminance on the plane. A balance of a low max/min ratio and high target efficiency are sought after in order to achieve high uniformity with most of the light falling inside the 4’ x 4’ square. 
 The reflector aperture is 3” wide and is 1.5” tall. It was lined with a reflective lining that has an 85% reflectance. Below is a picture of it's design in Photopia.
 
 <br/><img src='/files/reflector.PNG'>
