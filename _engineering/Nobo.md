@@ -16,5 +16,5 @@ The programing called for ease of internet connection throughout the site, insid
 There are quiet study, collabration, and meeting rooms which require integration of the audio/visual system with the lighting and shading, with much of the space having ample daylight.
 Security is rather simple sine the building does not have many exits or need for multiple zones of access control.
 
-More information on the project can be found at this link: [NoBo Libaray](https://boulderlibrary.org/nobo-branch/ "Vimeo")
+More information on the project can be found at this link: [NoBo Library](https://boulderlibrary.org/nobo-branch/ "Vimeo")
 
