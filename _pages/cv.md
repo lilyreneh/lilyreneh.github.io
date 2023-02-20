@@ -11,6 +11,7 @@ redirect_from:
 
 Education
 ======
+* M.S. in Acoustics, Penn State University - State College PA, 2024
 * B.S. in Architectural Engineering, University of Colorado - Boulder, 2019
 * B.A. in Cinema Studies, University of Colorado - Boulder, 2019
 * Study Abroad in Engineering, Polytechnic University of Valencia, 2016
