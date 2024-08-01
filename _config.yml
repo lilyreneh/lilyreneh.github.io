@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Lily Hetherington"
   avatar           : "websitepic.jpg"
-  bio              : "Master's Student, Penn State Acoustics"
-  location         : "State College, PA"
+  bio              : "Associate Acoustics Analyst Engineer"
+  location         : "Everrett, WA"
   employer         : #"https://www.integralgroup.com/"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
-  email            : "lrh5483@psu.edu"
+  email            : "hetherington.lily@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
